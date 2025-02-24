@@ -12,6 +12,7 @@ Proyecto Columna
 ## Getting Started
 
 ## Salida
+![alt text](image-1.png)
 
 This project is a starting point for a Flutter application.
 
